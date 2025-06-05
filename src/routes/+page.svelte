@@ -14,7 +14,6 @@
 	title="Elevate your business with thoughtful design"
 	subtitle="Solutions that enhance user experience, and improve visual communication."
 	imageSrc="/sample.png"
-	generating
 />
 <LogoScroller
 	label="Trusted by leading NHS providers"
@@ -27,13 +26,11 @@
 />
 
 <Summary
-	generating
 	title="What we do"
 	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
 			name: "Jane Smith",
@@ -66,7 +63,6 @@
 />
 
 <Features
-	generating
 	title="Features"
 	subtitle="Some features"
 	features={[
@@ -89,7 +85,6 @@
 />
 
 <UseCases
-	generating
 	title="Use Cases"
 	subtitle="Real-world applications for your business needs"
 	useCases={[
@@ -129,5 +124,5 @@
 	]}
 />
 
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction />
