@@ -16,7 +16,15 @@
 	imageSrc="/sample.png"
 	generating
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by leading NHS providers"
+	logoUrls={[
+		"https://logo.clearbit.com/hurleygroup.co.uk",
+		"https://logo.clearbit.com/modalitypartnership.nhs.uk",
+		"https://logo.clearbit.com/onedocs.com",
+		"https://logo.clearbit.com/pushdoctor.co.uk"
+	]}
+/>
 
 <Summary
 	generating
